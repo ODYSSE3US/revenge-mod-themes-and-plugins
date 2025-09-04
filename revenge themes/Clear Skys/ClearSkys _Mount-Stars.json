@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "URL_https://i.imgur.com/JcV3P2d.jpeg"
+        "url": "https://i.imgur.com/JcV3P2d.jpeg"
     },
     "plus": {
         "version": 0,
@@ -460,3 +460,4 @@
     },
     "spec": 2
             }
+
